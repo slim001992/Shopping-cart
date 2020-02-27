@@ -1,0 +1,22 @@
+.table {
+  background-color: white;
+}
+.fat {
+  color: red;
+}
+i {
+  cursor: pointer;
+}
+.dropdown-menu {
+  left: 1185px;
+}
+.cont {
+  background-color: #dbdbdb;
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  width: 100%;
+  height: 500px;
+}
